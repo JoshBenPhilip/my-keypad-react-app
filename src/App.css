@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  font-size: 1.3em;
+  padding: 15px 15px;
+}
+
+ {
+  font-size: 1.3em;
+  padding: 15px 15px;
+}
+
+keypadLine1 {
+  display: flexbox;
+}
+
+keypadOutput {
+  font-size: 2em;
+
+}
